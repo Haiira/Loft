@@ -6,7 +6,7 @@
 // @timestamp    1715518568
 // 2024-5-11
 // @license      CC BY-NC-SA 4.0
-// @homepageURL  https://haiira.github.io/myBlogIT/2024/05/11/【SealDice _ 海豹骰插件】投食/
+// @homepageURL  https://haiira.github.io/Loft/2024/12/24/【SealDice_海豹骰插件】投食/
 // ==/UserScript==
 
 function randomGetFood() {
