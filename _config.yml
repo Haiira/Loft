@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: HARAKII Site
+title: HARAKII的阁楼
 avatar: 'https://pic.imgdb.cn/item/658183dbc458853aef5555aa.png'
 subtitle: ''
 description: ''
@@ -14,8 +14,8 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://haiira.github.io/myBlogIT/
-root: /myBlogIT/
+url: https://haiira.github.io/Loft/
+root: /Loft/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

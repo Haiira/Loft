@@ -3,8 +3,8 @@ stellar:
   version: '1.28.1'
   homepage: 'https://xaoxuu.com/wiki/stellar/'
   repo: 'https://github.com/xaoxuu/hexo-theme-stellar'
-  main_css: /myBlogIT/css/main.css
-  main_js: /myBlogIT/js/main.js
+  main_css: /Loft/css/main.css
+  main_js: /Loft/js/main.js
 
 
 ######## head tags ########
