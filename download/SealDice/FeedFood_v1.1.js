@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         投食
 // @author       原木
-// @version      1.1.0
+// @version      1.1.1
 // @description  投喂，指令：.投喂 <物品>
 // @timestamp    1734971062
 // 2024-12-24
@@ -118,7 +118,7 @@ function getLikeList() {
 
 let ext = seal.ext.find('feedFood');
 if (!ext){
-    ext = seal.ext.new('feedFood', "原木", "1.1.0");
+    ext = seal.ext.new('feedFood', "原木", "1.1.1");
     seal.ext.register(ext);
 }
 
@@ -243,9 +243,7 @@ seal.ext.registerTemplateConfig(ext, "like_food_answer", [
 seal.ext.registerFloatConfig(ext, "after_that_p", 0.2);
 
 seal.ext.registerTemplateConfig(ext, "after_that_answer", [
-    "{核心:骰子名字}显得有些意外，开心地收下了。",
-    "{核心:骰子名字}惊喜地接下了。",
-    "虽然没有明说，但能感觉到{核心:骰子名字}喜欢这个礼物。",
-    "{核心:骰子名字}愉快地表示自己喜欢吃这个。",
-    "{核心:骰子名字}认真地表示了感谢，表示自己喜欢这个礼物。",
+    "一段时间后，收到了{核心:骰子名字}的回礼：一张卡片。",
+    "次日{核心:骰子名字}回赠了一顿相同的大餐。",
+    "次日，你在自己的桌上发现了一个小礼盒。",
 ]);
