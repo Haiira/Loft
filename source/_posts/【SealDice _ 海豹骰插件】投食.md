@@ -14,5 +14,3 @@ v1.1（2024.12.24）：将喜好差分置入了插件配置项，无需再编辑
 <!--more-->
 
 <a href="/Loft/download/SealDice/FeedFood_v1.1.js" download>► 下载 (v1.1)</a>
-
-<a href="/Loft/download/SealDice/FeedFood_v1.0.js" download>► 下载 (v1.0)</a>
